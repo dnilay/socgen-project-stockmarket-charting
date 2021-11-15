@@ -1,0 +1,1 @@
+# socgen-project-stockmarket-charting
